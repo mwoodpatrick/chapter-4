@@ -1,4 +1,4 @@
-# WordPress and Ajax Chapter 3
+# WordPress and Ajax Chapter 4
 
 [![Build Status](https://travis-ci.org/wpajax/chapter-3.svg?branch=master)](https://travis-ci.org/wpajax/chapter-3)
 
